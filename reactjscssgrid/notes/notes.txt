@@ -1,0 +1,9 @@
+npm i react-icons
+
+css box sizing
+https://www.w3schools.com/css/css3_box-sizing.asp
+
+https://unsplash.com/s/photos/apartment-building
+
+
+https://react-icons.github.io/react-icons/
